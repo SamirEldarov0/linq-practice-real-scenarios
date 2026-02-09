@@ -1,0 +1,12 @@
+# Ignore build folders
+LINQ/bin/
+LINQ/obj/
+
+# Visual Studio temporary files
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.log
