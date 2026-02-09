@@ -1,0 +1,14 @@
+C:\Users\ikinci.el.noutbuklar\Desktop\all\Practice\Practice\bin\Debug\net10.0\Practice.exe
+C:\Users\ikinci.el.noutbuklar\Desktop\all\Practice\Practice\bin\Debug\net10.0\Practice.deps.json
+C:\Users\ikinci.el.noutbuklar\Desktop\all\Practice\Practice\bin\Debug\net10.0\Practice.runtimeconfig.json
+C:\Users\ikinci.el.noutbuklar\Desktop\all\Practice\Practice\bin\Debug\net10.0\Practice.dll
+C:\Users\ikinci.el.noutbuklar\Desktop\all\Practice\Practice\bin\Debug\net10.0\Practice.pdb
+C:\Users\ikinci.el.noutbuklar\Desktop\all\Practice\Practice\obj\Debug\net10.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikinci.el.noutbuklar\Desktop\all\Practice\Practice\obj\Debug\net10.0\Practice.AssemblyInfoInputs.cache
+C:\Users\ikinci.el.noutbuklar\Desktop\all\Practice\Practice\obj\Debug\net10.0\Practice.AssemblyInfo.cs
+C:\Users\ikinci.el.noutbuklar\Desktop\all\Practice\Practice\obj\Debug\net10.0\Practice.csproj.CoreCompileInputs.cache
+C:\Users\ikinci.el.noutbuklar\Desktop\all\Practice\Practice\obj\Debug\net10.0\Practice.dll
+C:\Users\ikinci.el.noutbuklar\Desktop\all\Practice\Practice\obj\Debug\net10.0\refint\Practice.dll
+C:\Users\ikinci.el.noutbuklar\Desktop\all\Practice\Practice\obj\Debug\net10.0\Practice.pdb
+C:\Users\ikinci.el.noutbuklar\Desktop\all\Practice\Practice\obj\Debug\net10.0\Practice.genruntimeconfig.cache
+C:\Users\ikinci.el.noutbuklar\Desktop\all\Practice\Practice\obj\Debug\net10.0\ref\Practice.dll

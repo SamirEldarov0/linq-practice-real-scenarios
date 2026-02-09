@@ -1,0 +1,19 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio temporary files
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# Resharper files (if used)
+_ReSharper*/
+*.DotSettings.user
+
+# Others
+*.log
+*.cache
