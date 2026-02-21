@@ -32,7 +32,7 @@ Framework: .NET
 
 Concepts: LINQ (Method Syntax)
 
-Structure
+Structure 
 
 All LINQ examples are implemented in a single console application and clearly separated by numbered variables and comments for readability and learning purposes.
 
