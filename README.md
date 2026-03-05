@@ -6,7 +6,7 @@ It is designed to demonstrate practical usage of LINQ for data processing tasks 
 
 The examples focus on writing clean, readable, and efficient LINQ queries for filtering, grouping, aggregation, ranking, and transforming in-memory collections, similar to patterns used in production applications.
 
-Topics Covered
+Topics Covered :
 
 Filtering and projections (Where, Select)
 
